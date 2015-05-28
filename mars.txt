@@ -2,3 +2,5 @@ Mars is my favorite planet. It is red and sandy.
 But it's a bit far. Also it has broken robots on it.
 Also it's cold. 
 I'd liek to go there one day. 
+I will have to work on the oxygen issue. Otherwise, it might not work 
+out.
